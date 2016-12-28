@@ -28,3 +28,5 @@ Things you may want to cover:
 Rails version: 5.0.0.1
 Ruby version: 2.3.3 (i386-mingw32)
 >>>>>>> origin/master
+
+Tutorial para agregar bootstrap 4 https://www.youtube.com/watch?v=ZPh19YUbC3A
