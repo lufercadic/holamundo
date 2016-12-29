@@ -31,4 +31,6 @@ Ruby version: 2.3.3 (i386-mingw32)
 
 Tutorial para agregar bootstrap 4 https://www.youtube.com/watch?v=ZPh19YUbC3A
 
-para agregar bootstrap material design theme http://www.rubydoc.info/gems/bootstrap-material-design/0.2.2 
+para agregar bootstrap 4 admin template https://github.com/modularcode/modular-admin-html
+
+template azul bootsrap 3 https://almsaeedstudio.com/blog/10-Free-Responsive-Bootstrap-Templates-For-2016 
