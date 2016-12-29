@@ -30,3 +30,5 @@ Ruby version: 2.3.3 (i386-mingw32)
 >>>>>>> origin/master
 
 Tutorial para agregar bootstrap 4 https://www.youtube.com/watch?v=ZPh19YUbC3A
+
+para agregar bootstrap material design theme http://www.rubydoc.info/gems/bootstrap-material-design/0.2.2 

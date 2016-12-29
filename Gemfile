@@ -28,6 +28,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 #gem 'bootstrap-sass', '~> 3.3.6'
 gem 'bootstrap', '~> 4.0.0.alpha5'
+gem 'bootstrap-material-design'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 source 'https://rails-assets.org' do
